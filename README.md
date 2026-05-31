@@ -25,7 +25,7 @@
 </div>
 
 ---
-`##` About
+## `##` About
 
 ```python
 aishwarya = {
@@ -39,7 +39,7 @@ aishwarya = {
 
 ---
 
- `##` Featured Projects
+## `##` Featured Projects
 
  🏥 [Setu Health](https://github.com/AishwaryaMohanty212/setu-health) &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-39d353?style=flat-square)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
 *Multimodal Patient Timeline & Drug Interaction Graph*
@@ -79,7 +79,7 @@ End-to-end character-level text generator using a Recurrent LSTM in TensorFlow/K
 
 ---
 
-`##` Tech Stack
+## `##` Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -90,7 +90,7 @@ End-to-end character-level text generator using a Recurrent LSTM in TensorFlow/K
 
 ---
 
- `##` GitHub Stats
+ ## `##` GitHub Stats
 
 <div align="center">
 
@@ -104,7 +104,7 @@ End-to-end character-level text generator using a Recurrent LSTM in TensorFlow/K
 
 ---
 
- `##` Certifications & Recognition
+## `##` Certifications & Recognition
 
 | Badge | Detail |
 |---|---|
