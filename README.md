@@ -14,6 +14,8 @@
 
 *NLP · Deep Learning · Python · Cloud · GenAI*
 
+[![Profile Views](https://komarev.com/ghpvc/?username=AishwaryaMohanty212&color=39d353&style=flat-square&label=Profile+Views)](https://github.com/AishwaryaMohanty212)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishwarya-mohanty-72964169)
 [![GitHub](https://img.shields.io/badge/GitHub-bc8cff?style=flat-square&logo=github&logoColor=white)](https://github.com/AishwaryaMohanty212)
 [![HackerRank](https://img.shields.io/badge/HackerRank-39d353?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aishwarya99gmai1)
@@ -134,3 +136,4 @@ End-to-end character-level text generator using a Recurrent LSTM in TensorFlow/K
 [![🌐 Setu Health Live](https://img.shields.io/badge/🌐_Setu_Health_Live-21262d?style=for-the-badge)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
 
 </div>
+
