@@ -41,7 +41,7 @@ aishwarya = {
 
 ## `##` Featured Projects
 
-### 🏥 [Setu Health](https://github.com/AishwaryaMohanty212/setu-health) &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-39d353?style=flat-square)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
+ 🏥 [Setu Health](https://github.com/AishwaryaMohanty212/setu-health) &nbsp; [![Live Demo](https://img.shields.io/badge/🔴_Live_Demo-39d353?style=flat-square)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
 *Multimodal Patient Timeline & Drug Interaction Graph*
 
 AI-powered medical record analyser that extracts medications using Gemini 2.5 Flash, maps drug interactions as an interactive graph, and answers clinical questions in natural language.
