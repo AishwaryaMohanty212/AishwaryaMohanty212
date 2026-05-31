@@ -1,13 +1,17 @@
 ## Hi there 👋
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aishwarya%20Mohanty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20KIIT%20University%20%7C%20LTIMindtree%20Curriculum&descAlignY=55&descSize=16" width="100%"/>
+<!-- Animated banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aishwarya%20Mohanty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20KIIT%20University&descSize=18&descAlignY=58&descColor=a0aec0" width="100%"/>
 
-</div>
+<!-- Animated typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=MTech+AI+%26+Data+Science+%40+KIIT+%F0%9F%8E%93;Google+Developer+Program+Member+%F0%9F%8F%85;NLP+%7C+Deep+Learning+%7C+LLMs+%7C+Generative+AI+%F0%9F%A4%96;Google+Cloud+Innovator+%E2%98%81%EF%B8%8F+%7C+Firebase+Developer+%F0%9F%94%A5;Open+to+Internships+%7C+AI+%2F+ML+%2F+Data+Science+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MTech+AI+%26+Data+Science+%40+KIIT+University+%F0%9F%8E%93;Google+Developer+Program+Member+%F0%9F%8F%85;NLP+%7C+Deep+Learning+%7C+LLMs+%7C+Generative+AI;Google+Cloud+Innovator+%E2%98%81%EF%B8%8F+%7C+Firebase+Developer;Open+to+AI+%2F+ML+%2F+Data+Science+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- Visitor badge + profile views -->
+![Profile Views](https://komarev.com/ghpvc/?username=AishwaryaMohanty212&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/AishwaryaMohanty212?style=for-the-badge&color=58a6ff)
 
 </div>
 
@@ -20,7 +24,7 @@ class Aishwarya:
     name        = "Aishwarya Mohanty"
     university  = "Kalinga Institute of Industrial Technology (KIIT)"
     degree      = "MTech — Artificial Intelligence & Data Science"
-    curriculum  = "Designed by LTIMindtree Industry Experts"
+    curriculum  = "Designed by LTIMindtree Industry Experts 🏢"
     location    = "Bhubaneswar, Odisha, India 📍"
     status      = "🟢 Actively seeking AI / ML / Data Science Internships"
 
@@ -30,7 +34,7 @@ class Aishwarya:
         "Google Cloud Innovator ☁️",
         "She Builds AI 🤖 | Women in AI Summit 2024",
         "Firebase Studio Developer 🔥",
-        "Tech Equity Collective | Women Techmakers",
+        "Tech Equity Collective | Women Techmakers 👩‍💻",
         "I/O 2025 & I/O 2026 Registered 🎟️",
         "NVIDIA Community Member",
     ]
@@ -87,7 +91,7 @@ class Aishwarya:
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge&logo=python&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F39C12?style=for-the-badge&logo=openai&logoColor=white)
-![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning%20%2F%20LoRA-27AE60?style=for-the-badge&logo=python&logoColor=white)
+![Fine Tuning / LoRA](https://img.shields.io/badge/Fine%20Tuning%20%2F%20LoRA-27AE60?style=for-the-badge&logo=python&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Computer Vision**
@@ -139,12 +143,16 @@ class Aishwarya:
 
 ## 🚀 Featured Projects
 
-| 🔬 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| [🎵 Music Popularity Prediction](https://github.com/AishwaryaMohanty212/Music-Popularity-Prediction) | Predict song popularity using audio features and ML models | Python, Scikit-learn, Pandas |
-| [📧 Detecting Spam Emails](https://github.com/AishwaryaMohanty212/Detecting-Spam-Emails) | Email spam classifier using NLP and classification algorithms | Python, NLP, NLTK |
-| [🤖 Rule-Based Chatbot (NLP)](https://github.com/AishwaryaMohanty212/Building-a-Rule-Based-Chatbot-with-Natural-Language-Processing) | Lightweight chatbot using pattern matching and NLTK | Python, NLTK, NLP |
-| [✍️ Text Generation (LSTM)](https://github.com/AishwaryaMohanty212/Text-Generation-using-Recurrent-LSTM) | Character-level text generator using Recurrent LSTM networks | TensorFlow, Keras, Deep Learning |
+<div align="center">
+
+| 🔬 Project | 📝 Description | 🛠️ Tech Stack |
+|:---|:---|:---|
+| [🏥 Setu Health](https://github.com/AishwaryaMohanty212/setu-health) | Healthcare data management and analytics platform | Python, Data Science, ML |
+| [⚙️ n8n Automation](https://github.com/AishwaryaMohanty212/n8n) | Workflow automation and AI pipeline integration | n8n, Automation, AI APIs |
+
+> 🔒 More projects coming soon — currently building exciting AI & GenAI applications!
+
+</div>
 
 ---
 
@@ -152,14 +160,14 @@ class Aishwarya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMohanty212&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMohanty212&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="170"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaMohanty212&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaMohanty212&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)
 
 </div>
 
@@ -167,13 +175,25 @@ class Aishwarya:
 
 ## 🏆 Certifications & Achievements
 
-- 🎓 **DeepLearning.AI / Coursera** — Deep Learning & AI Specialization
-- 🏅 **30+ Google Developer Badges** — GDG, Cloud, Firebase, Generative AI programs
-- 🌐 **Google I/O 2025 & 2026** — Registered Attendee
-- ☁️ **Google Cloud Innovator** & **Gemini Enterprise Agent Ready**
-- 🤖 **She Builds AI** — Google AI Campaign
-- 👩‍💻 **Women Techmakers Member** | **Tech Equity Collective**
-- 🔥 **Firebase Studio Developer**
+| 🏅 Achievement | 📌 Details |
+|:---|:---|
+| 🎓 DeepLearning.AI / Coursera | Deep Learning & AI Specialization |
+| 🏅 30+ Google Developer Badges | GDG, Cloud, Firebase, Generative AI programs |
+| 🌐 Google I/O 2025 & 2026 | Registered Attendee |
+| ☁️ Google Cloud Innovator | Cloud & Gemini Enterprise Agent Ready |
+| 🤖 She Builds AI | Google AI Campaign participant |
+| 👩‍💻 Women Techmakers | Member + Tech Equity Collective |
+| 🔥 Firebase Studio Developer | Firebase development certified |
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Aishwarya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AishwaryaMohanty212&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b)](https://github.com/AishwaryaMohanty212)
+
+</div>
 
 ---
 
@@ -187,12 +207,16 @@ class Aishwarya:
 [![Email 1](https://img.shields.io/badge/Gmail-mohantyaishwarya540-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohantyaishwarya540@gmail.com)
 [![Email 2](https://img.shields.io/badge/Gmail-aishwaryamohanty212-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryamohanty212@gmail.com)
 
-</div>
-
-<div align="center">
+<br/>
 
 💼 **Open to AI / ML / Data Science / Cloud / NLP / GenAI Internships — 2025 / 2026**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+
+<!-- Snake animation - add this after enabling GitHub Actions -->
+<!-- ![Snake animation](https://github.com/AishwaryaMohanty212/AishwaryaMohanty212/blob/output/github-contribution-grid-snake-dark.svg) -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
+
