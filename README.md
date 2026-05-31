@@ -1,9 +1,6 @@
 ## Hi there 👋
 <div align="center">
 
-<!-- Animated banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aishwarya%20Mohanty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20KIIT%20University&descSize=18&descAlignY=58&descColor=a0aec0" width="100%"/>
-
 <!-- Animated typing -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&lines=MTech+AI+%26+Data+Science+%40+KIIT+%F0%9F%8E%93;Google+Developer+Program+Member+%F0%9F%8F%85;NLP+%7C+Deep+Learning+%7C+LLMs+%7C+Generative+AI+%F0%9F%A4%96;Google+Cloud+Innovator+%E2%98%81%EF%B8%8F+%7C+Firebase+Developer+%F0%9F%94%A5;Open+to+Internships+%7C+AI+%2F+ML+%2F+Data+Science+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -216,7 +213,6 @@ class Aishwarya:
 <!-- Snake animation - add this after enabling GitHub Actions -->
 <!-- ![Snake animation](https://github.com/AishwaryaMohanty212/AishwaryaMohanty212/blob/output/github-contribution-grid-snake-dark.svg) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
 </div>
+
 
