@@ -1,16 +1,198 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**AishwaryaMohanty212/AishwaryaMohanty212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aishwarya%20Mohanty&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20KIIT%20University%20%7C%20LTIMindtree%20Curriculum&descAlignY=55&descSize=16" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=MTech+AI+%26+Data+Science+%40+KIIT+University+%F0%9F%8E%93;Google+Developer+Program+Member+%F0%9F%8F%85;NLP+%7C+Deep+Learning+%7C+LLMs+%7C+Generative+AI;Google+Cloud+Innovator+%E2%98%81%EF%B8%8F+%7C+Firebase+Developer;Open+to+AI+%2F+ML+%2F+Data+Science+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+```python
+class Aishwarya:
+    name        = "Aishwarya Mohanty"
+    university  = "Kalinga Institute of Industrial Technology (KIIT)"
+    degree      = "MTech — Artificial Intelligence & Data Science"
+    curriculum  = "Designed by LTIMindtree Industry Experts"
+    location    = "Bhubaneswar, Odisha, India 📍"
+    status      = "🟢 Actively seeking AI / ML / Data Science Internships"
+
+    community   = [
+        "Google Developer Program Member 🏅",
+        "GDG Campus — KIIT, Amity, Chitkara, Vellore & more",
+        "Google Cloud Innovator ☁️",
+        "She Builds AI 🤖 | Women in AI Summit 2024",
+        "Firebase Studio Developer 🔥",
+        "Tech Equity Collective | Women Techmakers",
+        "I/O 2025 & I/O 2026 Registered 🎟️",
+        "NVIDIA Community Member",
+    ]
+
+    contact     = [
+        "mohantyaishwarya540@gmail.com",
+        "aishwaryamohanty212@gmail.com",
+    ]
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Data Science & Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+
+**Machine Learning**
+
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-4ECDC4?style=for-the-badge&logo=python&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-45B7D1?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)
+
+**Deep Learning & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![RNN / LSTM](https://img.shields.io/badge/RNN%20%2F%20LSTM-9B59B6?style=for-the-badge&logo=python&logoColor=white)
+![GANs](https://img.shields.io/badge/GANs-E74C3C?style=for-the-badge&logo=python&logoColor=white)
+
+**NLP & Generative AI**
+
+![NLP](https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8E44AD?style=for-the-badge&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F39C12?style=for-the-badge&logo=openai&logoColor=white)
+![Fine Tuning](https://img.shields.io/badge/Fine%20Tuning%20%2F%20LoRA-27AE60?style=for-the-badge&logo=python&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00B4D8?style=for-the-badge&logo=python&logoColor=white)
+![Image Processing](https://img.shields.io/badge/Image%20Processing-1A85FF?style=for-the-badge&logo=python&logoColor=white)
+
+**Cloud, MLOps & Deployment**
+
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6B35?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Data Engineering**
+
+![ETL](https://img.shields.io/badge/ETL-20C997?style=for-the-badge&logo=python&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-E67E22?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Version Control**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🏅 Google Developer Badges
+
+<div align="center">
+
+> 🎖️ **30+ Google Developer Badges** earned across GDG events, I/O, Firebase, Cloud & AI programs
+
+[![Google Developer Profile](https://img.shields.io/badge/Google%20Developer%20Profile-View%2030%2B%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/AishwaryaMohanty28)
+
+`GDG Campus Member` • `Google Cloud Innovator` • `Firebase Studio Developer` • `She Builds AI` • `I/O 2025 & 2026` • `Women in AI Summit` • `Tech Equity Collective` • `NVIDIA Community` • `Women Techmakers` • `Code Wiki` • `Google Skills` • `Gemini Enterprise Agent Ready`
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🔬 Project | 📝 Description | 🛠️ Tech |
+|---|---|---|
+| [🎵 Music Popularity Prediction](https://github.com/AishwaryaMohanty212/Music-Popularity-Prediction) | Predict song popularity using audio features and ML models | Python, Scikit-learn, Pandas |
+| [📧 Detecting Spam Emails](https://github.com/AishwaryaMohanty212/Detecting-Spam-Emails) | Email spam classifier using NLP and classification algorithms | Python, NLP, NLTK |
+| [🤖 Rule-Based Chatbot (NLP)](https://github.com/AishwaryaMohanty212/Building-a-Rule-Based-Chatbot-with-Natural-Language-Processing) | Lightweight chatbot using pattern matching and NLTK | Python, NLTK, NLP |
+| [✍️ Text Generation (LSTM)](https://github.com/AishwaryaMohanty212/Text-Generation-using-Recurrent-LSTM) | Character-level text generator using Recurrent LSTM networks | TensorFlow, Keras, Deep Learning |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMohanty212&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AishwaryaMohanty212&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- 🎓 **DeepLearning.AI / Coursera** — Deep Learning & AI Specialization
+- 🏅 **30+ Google Developer Badges** — GDG, Cloud, Firebase, Generative AI programs
+- 🌐 **Google I/O 2025 & 2026** — Registered Attendee
+- ☁️ **Google Cloud Innovator** & **Gemini Enterprise Agent Ready**
+- 🤖 **She Builds AI** — Google AI Campaign
+- 👩‍💻 **Women Techmakers Member** | **Tech Equity Collective**
+- 🔥 **Firebase Studio Developer**
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-mohanty-7394341b9/)
+[![Google Dev Profile](https://img.shields.io/badge/Google%20Dev-30%2B%20Badges-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/AishwaryaMohanty28)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AishwaryaMohanty212)
+[![Email 1](https://img.shields.io/badge/Gmail-mohantyaishwarya540-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohantyaishwarya540@gmail.com)
+[![Email 2](https://img.shields.io/badge/Gmail-aishwaryamohanty212-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryamohanty212@gmail.com)
+
+</div>
+
+<div align="center">
+
+💼 **Open to AI / ML / Data Science / Cloud / NLP / GenAI Internships — 2025 / 2026**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
