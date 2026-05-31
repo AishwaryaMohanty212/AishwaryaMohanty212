@@ -2,22 +2,19 @@
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║   AISHWARYA MOHANTY  ·  AI/ML ENGINEER  ·  GOOGLE INNOVATOR  ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║  AISHWARYA MOHANTY · AI/ML ENGINEER · GOOGLE INNOVATOR    ║
+╚════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<div align="center">
 
 ### `> Building AI that actually ships.`
 
 *NLP · Deep Learning · Python · Cloud · GenAI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishwarya-mohanty-72964169)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/aishwar...)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/aishwarya99gmai1)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwarya99gmail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AishwaryaMohanty212)
 
 </div>
 
@@ -39,21 +36,30 @@ aishwarya = {
 
 ## 🔬 Featured Projects
 
-### 🏥 [Data Health](https://github.com/AishwaryaMohanty212/Data-Health)
-> **Healthcare data management & analytics platform**
+### 🏥 [Setu Health](https://github.com/AishwaryaMohanty212/setu-health) &nbsp; [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-39d353?style=flat-square)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
+> **Multimodal Patient Timeline & Drug Interaction Graph**
 
-Centralised platform for ingesting, validating, and analysing patient data pipelines. Built with Python, ML anomaly detection, and a clean analytics dashboard — designed to help healthcare teams catch data quality issues before they reach production models.
+AI-powered medical record analyser that extracts medications from uploaded documents using Gemini 2.5 Flash, maps drug interactions as an interactive graph, and answers clinical questions in natural language.
 
-`Python` `Data Science` `ML` `Healthcare Analytics`
+`Python` `Streamlit` `Gemini 2.5 Flash` `NetworkX` `Plotly`
 
 ---
 
-### 🤖 [n8n AI Automation](https://github.com/AishwaryaMohanty212/n8n-Automation)
-> **Workflow automation with agentic AI pipeline integration**
+### 📈 [n8n Investment Bot](https://github.com/AishwaryaMohanty212/n8n-investment-bot)
+> **Automated Investment Research Assistant**
 
-End-to-end automation system using n8n as the orchestration layer with integrated AI agents for intelligent task routing, document processing, and multi-step decision-making. Connects LLMs, APIs, and databases in production-ready workflows.
+Fully automated workflow that runs on a weekday schedule — scrapes investor relations pages & SEC filings with Olostep, synthesises findings with OpenAI, and delivers a structured HTML research report via Gmail.
 
-`n8n` `Automation` `AI Agents` `APIs` `LangChain`
+`n8n` `OpenAI` `Olostep` `Docker` `Gmail API`
+
+---
+
+### 🧠 [LSTM Text Generation](https://github.com/AishwaryaMohanty212/Text-Generation-using-Recurrent-LSTM)
+> **Character-level Recurrent Language Model**
+
+End-to-end character-level text generator using a Recurrent LSTM network in TensorFlow/Keras. Demonstrates long-term sequential dependency capture — a core building block of modern NLP.
+
+`Python` `TensorFlow` `Keras` `LSTM` `NLP`
 
 ---
 
@@ -69,15 +75,28 @@ End-to-end automation system using n8n as the orchestration layer with integrate
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-**Cloud & MLOps**
+**GenAI**
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Cloud & Tools**
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Tools**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaMohanty212&theme=github-dark-blue&hide_border=true)
+
+</div>
 
 ---
 
@@ -88,24 +107,12 @@ End-to-end automation system using n8n as the orchestration layer with integrate
 | 🎓 Deep Learning AI · Coursera | Deep Learning & AI Specialization |
 | ☁️ Google Cloud Innovator | GDS, Cloud, Firebase, Gemini AI Programs |
 | 🌍 Google I/O 2025 & 2026 | Registered Attendee |
-| 🤖 Gemini Enterprise Agent Ready | Cloud & Gemini (Enterprise Agent Ready) |
+| 🤖 Gemini Enterprise Agent Ready | Cloud & Gemini Enterprise |
 | 💡 She Builds AI | Google AI Campaign Participant |
 | 👩‍💻 Women Techmakers | Member – Tech Equity Collective |
 | 🔥 Firebase Studio Developer | Firebase Development Certified |
 
 **30+ Google Developer Badges** across GDS events, I/O, Firebase, Cloud & AI programs
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMohanty212&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
@@ -115,5 +122,7 @@ End-to-end automation system using n8n as the orchestration layer with integrate
 
 `Let's build something meaningful.`
 
-</div>
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishwarya-mohanty-72964169)
+[![View Live App](https://img.shields.io/badge/🌐_Setu_Health_Live-39d353?style=for-the-badge)](https://setu-health-2fkzmhofvnf24g8p83fa7t.streamlit.app/)
 
+</div>
