@@ -94,6 +94,8 @@ End-to-end character-level text generator using a Recurrent LSTM network in Tens
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AishwaryaMohanty212&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AishwaryaMohanty212&layout=compact&theme=github_dark&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AishwaryaMohanty212&theme=github-dark-blue&hide_border=true)
 
 </div>
